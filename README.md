@@ -1,1 +1,1 @@
-<h1>Use Npm for install and run dev</h1>
+<h1>Use npm for install and run dev</h1>
