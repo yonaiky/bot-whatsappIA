@@ -1,0 +1,82 @@
+VIZNEX
+Date: Thursday, March 22, 2024
+Expiration Date: Tuesday, April 30, 2024
+Bot Development Quotation - TINAHEAL - ADLOC
+The following are the estimated costs for the development of the bot according to the specifications
+provided:
+1. Development of Chatbot API:
+• Creation of API endpoints for receiving instructions, prompts, and images.
+• Integration of PDF extraction functionality.
+•
+Implementation of conversation history tracking.
+• Language: PHP
+Cost: $400
+2. Integration of Natural Language Processing (NLP):
+• Integration of NLP models to understand user queries and context.
+• Implementing responses based on extracted information and defined prompts.
+• Language: Python (for NLP integration)
+Cost: $280
+3. Deployment and Documentation:
+.
+Deployment of the chatbot API to your server environment.
+• Documentation for API usage.
+• Cost: $80
+4. Support and Maintenance:
+• One-month support post-deployment for any issues or queries.
+• Optional ongoing maintenance plan can be discussed.
+• Estimated Cost: $50
+Página 1 | 3
+VIZNEX
+Date: Thursday, March 22, 2024
+Expiration Date: Tuesday, April 30, 2024
+Development Phases
+To ensure a structured and efficient development process, we propose breaking down the project into
+three distinct phases:
+Phase 1: API Development
+• Objective: Establish the core functionality of the chatbot API to handle instructions, prompts,
+images, and conversation history.
+• Tasks:
+• Design and development of API endpoints for receiving and processing instructions,
+prompts, and images.
+• Integration of PDF extraction functionality to extract necessary resources.
+• Implementation of conversation history tracking to maintain consistency.
+• Estimated Time: 2 weeks
+Phase 2: NLP Integration
+Objective: Enhance the chatbot's capabilities by integrating Natural Language Processing (NLP)
+models for better understanding of user queries and context.
+• Tasks:
+• Integration of NLP models to analyze user input and extract relevant information.
+• Development of logic to generate responses based on extracted data and defined
+prompts.
+• Testing and refining NLP integration to ensure accurate interpretation and response
+generation.
+• Estimated Time: 1 week
+Página 2 | 3
+VIZNEX
+Date: Thursday, March 22, 2024
+Expiration Date: Tuesday, April 30, 2024
+Phase 3: Testing, Deployment, and Documentation
+• Objective: Validate the functionality, deploy the solution, and provide comprehensive
+documentation for seamless integration and maintenance.
+• Tasks:
+• Comprehensive testing of the chatbot API and NLP integration to ensure reliability and
+functionality.
+• Bug fixing and adjustments based on testing feedback.
+• Deployment of the chatbot API to your server environment.
+• Creation of documentation detailing API usage, maintenance procedures, and
+deployment instructions.
+• Estimated Time: 1 week
+These phases are designed to ensure a systematic approach to development, with each phase building
+upon the previous one to achieve the desired functionality and quality. We will maintain open
+communication throughout the process to keep you updated on progress and address any concerns or
+adjustments as needed.
+Total Estimated Cost: $810
+Time for development: 28 days
+Initial Payment: $260
+NOTE:
+Please note that the above prices are estimates based on the provided specifications. Any additional
+features or changes requested during the development process may affect the final cost and timeline.
+If you need any additional clarification or wish to proceed with the quotation, please do not hesitate to
+get in touch.
+Kind Regards.
+Página 3|3

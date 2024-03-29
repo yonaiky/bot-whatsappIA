@@ -1,0 +1,743 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: false,
+    id: '57811551445CCA3C035B09DEB6A05B7E',
+    participant: undefined
+  },
+  messageTimestamp: 1711755211,
+  pushName: 'YONA.JS',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  name: 'YONA.JS',
+  from: '18096055280',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3b56553c-d7ba-41c9-a981-e0ca0e39523d',
+  keyword: 'key_43932634-e965-4ffe-994d-d0172f286bb4',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c8b44ea9ae9fa229c2d8ef6c5e878f63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: false,
+    id: '122DD2A29F98CA0048C2C881D666716A',
+    participant: undefined
+  },
+  messageTimestamp: 1711755229,
+  pushName: 'YONA.JS',
+  broadcast: false,
+  message: Message {
+    conversation: 'Necesito info',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Necesito info',
+  name: 'YONA.JS',
+  from: '18096055280',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3b56553c-d7ba-41c9-a981-e0ca0e39523d',
+  keyword: 'key_43932634-e965-4ffe-994d-d0172f286bb4',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c8b44ea9ae9fa229c2d8ef6c5e878f63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: false,
+    id: '69D82669B0AE523EA9588A17683C2FE3',
+    participant: undefined
+  },
+  messageTimestamp: 1711755242,
+  pushName: 'YONA.JS',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/30630363_793561269343360_3360817752584296651_n.enc?ccb=11-4&oh=01_ASCLq-ZttkdfH67w4wLXVG2OGQTIvv-53-P11LZHrPig7Q&oe=662ED91B&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 4,
+      mediaKey: [Uint8Array],
+      fileName: 'Baambinouu - ChatBot AI Development Quotation.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/30630363_793561269343360_3360817752584296651_n.enc?ccb=11-4&oh=01_ASCLq-ZttkdfH67w4wLXVG2OGQTIvv-53-P11LZHrPig7Q&oe=662ED91B&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/33436703_937812641384098_6536585100313733087_n.enc?ccb=11-4&oh=01_ASDox-MU2IVN1JHhjuCh_XXeNnVZmL1-qXPCGOpgKZSw8A&oe=662EB721&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      thumbnailHeight: 480,
+      thumbnailWidth: 370
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_document__1e776353-048b-48a8-88e2-4157458f6560',
+  name: 'YONA.JS',
+  from: '18096055280',
+  host: '18497392172'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: false,
+    id: 'F010CFA12D853A812127080E10948A6C',
+    participant: undefined
+  },
+  messageTimestamp: 1711755247,
+  pushName: 'YONA.JS',
+  broadcast: false,
+  message: Message {
+    conversation: 'Salir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Salir',
+  name: 'YONA.JS',
+  from: '18096055280',
+  host: '18497392172'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: false,
+    id: '97B1E4B36AF17CA2EBE49242C5005BA4',
+    participant: undefined
+  },
+  messageTimestamp: 1711755253,
+  pushName: 'YONA.JS',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cancelar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cancelar',
+  name: 'YONA.JS',
+  from: '18096055280',
+  host: '18497392172'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: false,
+    id: 'B4880D352E0E4DD600E6AE61902D90FF',
+    participant: undefined
+  },
+  messageTimestamp: 1711755258,
+  pushName: 'YONA.JS',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cancel',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cancel',
+  name: 'YONA.JS',
+  from: '18096055280',
+  host: '18497392172'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: false,
+    id: 'D9C05FD8944C56119D9450CAEC0BC261',
+    participant: undefined
+  },
+  messageTimestamp: 1711755276,
+  pushName: 'YONA.JS',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/30630363_793561269343360_3360817752584296651_n.enc?ccb=11-4&oh=01_ASCLq-ZttkdfH67w4wLXVG2OGQTIvv-53-P11LZHrPig7Q&oe=662ED91B&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 4,
+      mediaKey: [Uint8Array],
+      fileName: 'Baambinouu - ChatBot AI Development Quotation.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/30630363_793561269343360_3360817752584296651_n.enc?ccb=11-4&oh=01_ASCLq-ZttkdfH67w4wLXVG2OGQTIvv-53-P11LZHrPig7Q&oe=662ED91B&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/33436703_937812641384098_6536585100313733087_n.enc?ccb=11-4&oh=01_ASDox-MU2IVN1JHhjuCh_XXeNnVZmL1-qXPCGOpgKZSw8A&oe=662EB721&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      thumbnailHeight: 480,
+      thumbnailWidth: 370
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_document__552f3ed8-04cb-40cf-9a39-abdb86a7b28f',
+  name: 'YONA.JS',
+  from: '18096055280',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5e085759-e1c1-489e-8d0f-9bcf34fd2bdb',
+  keyword: 'key_4f2ea70d-e357-4095-892a-e6a25df8ad6d',
+  answer: 'Estare leyendo tu archivo, tardare unos segundos...',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd053d8d8c7d40220243fafba8259b78'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28751774-d33c-490f-81bf-cec883dce2e6',
+  keyword: 'ans_5e085759-e1c1-489e-8d0f-9bcf34fd2bdb',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1b5572d7959d3771b03fbd7dddd72919'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: false,
+    id: '2FAEC4436F1C43E28B64690D283EC31C',
+    participant: undefined
+  },
+  messageTimestamp: 1711755299,
+  pushName: 'YONA.JS',
+  broadcast: false,
+  message: Message {
+    conversation: 'De que trata el bot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'De que trata el bot',
+  name: 'YONA.JS',
+  from: '18096055280',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: 'D2ED5F2A0AE41FF752E6B45BDDCF070E',
+    participant: undefined
+  },
+  messageTimestamp: 1711755647,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: 'D2ED5F2A0AE41FF752E6B45BDDCF070E',
+    participant: undefined
+  },
+  messageTimestamp: 1711755647,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hello',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hello',
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3b56553c-d7ba-41c9-a981-e0ca0e39523d',
+  keyword: 'key_43932634-e965-4ffe-994d-d0172f286bb4',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c8b44ea9ae9fa229c2d8ef6c5e878f63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: 'F232E67361CE89042CD45CC7DBAE6ECC',
+    participant: undefined
+  },
+  messageTimestamp: 1711755666,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/19975031_775480504537614_5933909935916791394_n.enc?ccb=11-4&oh=01_ASD6p1T1GER7gVqdtovIspX05e6N1yYeEhRpstFa1WisJg&oe=662EB67C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 3,
+      mediaKey: [Uint8Array],
+      fileName: 'Cotizacion de Multi-servicios Bot - Israel segunda revision.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/19975031_775480504537614_5933909935916791394_n.enc?ccb=11-4&oh=01_ASD6p1T1GER7gVqdtovIspX05e6N1yYeEhRpstFa1WisJg&oe=662EB67C&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/29680364_1461925001402661_8238484051058240076_n.enc?ccb=11-4&oh=01_ASCDQly3JR2BJRh46iR8xdpPYPsUH8HzdsuvKUXB9DQx6g&oe=662EAC3B&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      thumbnailHeight: 480,
+      thumbnailWidth: 370
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_document__5e201dc4-3827-4ad2-8683-f4a813cf8960',
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5e085759-e1c1-489e-8d0f-9bcf34fd2bdb',
+  keyword: 'key_4f2ea70d-e357-4095-892a-e6a25df8ad6d',
+  answer: 'Estare leyendo tu archivo, tardare unos segundos...',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd053d8d8c7d40220243fafba8259b78'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_28751774-d33c-490f-81bf-cec883dce2e6',
+  keyword: 'ans_5e085759-e1c1-489e-8d0f-9bcf34fd2bdb',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1b5572d7959d3771b03fbd7dddd72919'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: 'C0172BF68D5DBC40CA0D0DABE399A7E8',
+    participant: undefined
+  },
+  messageTimestamp: 1711755693,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dame un resumen de este documento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dame un resumen de este documento',
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: '22A5DDDC73E89DF314826B90F89D8EC4',
+    participant: undefined
+  },
+  messageTimestamp: 1711755755,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuanto cuesta la creación de las interfacea',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuanto cuesta la creación de las interfacea',
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: '8720CB9C24183E26F87BCCD415185BB6',
+    participant: undefined
+  },
+  messageTimestamp: 1711755772,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para quien va destinada la cotización',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Para quien va destinada la cotización',
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: '8C5C77056E7CF33B61F21CCE25899AA4',
+    participant: undefined
+  },
+  messageTimestamp: 1711755799,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que empresa hizo este documento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que empresa hizo este documento',
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: 'D2F70D266849D891B59FB469C6C1C1D2',
+    participant: undefined
+  },
+  messageTimestamp: 1711755817,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Me podrias decir fecha de expiración',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Me podrias decir fecha de expiración',
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: false,
+    id: '313620B272F5A48194B8FE38A806E695',
+    participant: undefined
+  },
+  messageTimestamp: 1711755843,
+  pushName: 'DreelsRD',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuales servicios estan enlistados',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuales servicios estan enlistados',
+  name: 'DreelsRD',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18097087556@s.whatsapp.net',
+    fromMe: true,
+    id: '57F8D2C3379E96369FF74A1694C8B284',
+    participant: undefined
+  },
+  messageTimestamp: 1711755917,
+  pushName: 'Yona.IA',
+  broadcast: false,
+  status: 2,
+  message: Message {
+    conversation: 'Necesita algo más señor Dariel?',
+    messageContextInfo: MessageContextInfo {
+      messageSecret: [Uint8Array],
+      reportingTokenVersion: 0
+    }
+  },
+  body: 'Necesita algo más señor Dariel?',
+  name: 'Yona.IA',
+  from: '18097087556',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18096055280@s.whatsapp.net',
+    fromMe: true,
+    id: 'CC8F7373C4472465FC4537D4AC1F9B31',
+    participant: undefined
+  },
+  messageTimestamp: 1711755956,
+  pushName: 'Yona.IA',
+  broadcast: false,
+  status: 2,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      messageSecret: [Uint8Array],
+      reportingTokenVersion: 0
+    }
+  },
+  body: 'Hola',
+  name: 'Yona.IA',
+  from: '18096055280',
+  host: '18497392172'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc5fc2f1-49c8-499f-b26c-25b955eb1840',
+  keyword: 'ans_dbffcd7a-5869-4d16-afb9-31839c71e24f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32fa7d0e2fd1b87a972e0f06905cf8fb'
+}

@@ -1,0 +1,98 @@
+Cotización de Desarrollo de Bot para WhatsApp 'VARIADOS' - ISRAEL
+A continuación se detallan los costos estimados para el desarrollo del bot según los requisitos
+proporcionados:
+Plataforma: WhatsApp
+Detalles Generales
+1. Diseño de Interfaz:
+Creacion de interfaz de cliente: $175
+•
+•
+Seleccion de idioma para el cliente (espanol / ingles)
+•
+Validación del código postal del cliente
+•
+Seleccion de servicios (compra de productos, creacion de ordenes y pagos)
+•
+Seguimiento de ordenes generadas
+•
+Sistema de tips y feedback
+•
+Diseño de escalabilidad futura para flujos continuos
+•
+Diseño de escalabilidad futura para flujos interrumpidos.
+•
+Registro de datos persistentes para cada servicio.
+Creacion de interfaz de administrador: $100
+•
+Manejo de servicios (codigos postales, precios de envio y productos)
+•
+Manejo de metodos de pago
+•
+Manejo de trabajadores
+•
+Manejo de clientes
+•
+Manejo de ordenes generadas y pedidos
+•
+Manejo de historial de actividades
+•
+Diseño de escalabilidad futura para nuevos manejos
+Creacion de interfaz de trabajador: $80
+Manejo de estado de ordenes asignadas
+Servicios:
+1. Carwash a Domicilio: 60$
+.
+Sistema de reservas
+•
+Flujo de conversaccion unico (flujo continuo)
+2. Mecánico a Domicilio: 60$
+•
+Sistema de reservas
+•
+Flujo de conversaccion unico (flujo interrumpido)
+3. Comida (Botanas): 90$
+Sistema de pedidos
+Flujo de conversaccion unico (flujo continuo)
+Desarrollo de mini e-commerce
+4. Comida (Supermercado): 100$
+•
+Sistema de pedidos
+Flujo de conversaccion unico (flujo continuo)
+Desarrollo de mini e-commerce
+5. Lavandería: 60$
+Sistema de reservas
+Flujo de conversaccion unico (flujo continuo)
+6. Jardinero a Domicilio: 60$
+Sistema de reservas
+Flujo de conversaccion unico (flujo continuo o interrumpido?)
+Cuanto costaria agregar un nuevo servicio a la lista?
+Si el servicio sigue la estructura de un sistema de reservas (booking) el precio estaria entre 80$ - 120$
+en cambio si el servicio sigue la estructura de un sistema de pedidos (e-commerce) el precio seria de
+100$ a 150$. Esto puede variar si el servicio contiene flujos 'disruptivos' que no sigan las normales de
+su estructura escalable previamente desarrollado.
+Fases del Proyecto
+El proyecto se llevará a cabo en tres fases distintas para garantizar un desarrollo sistemático y eficiente.
+A continuación se detallan cada una de ellas:
+1. Fase Inicial: Esta etapa abarca la construcción de los cimientos del proyecto. Se desarrollarán
+los esquemas de base de datos, las API y se establecerá una estructura escalable para los
+servicios presentes y futuros. Es crucial para establecer una base sólida que sustente el
+crecimiento y la evolución del proyecto.
+2. Fase de Desarrollo de Interfaz: En esta fase, se concentrará en la construcción de las
+interfaces de cliente, administrador y trabajador. Esto implica diseñar y desarrollar la
+experiencia de usuario tanto para los usuarios finales como para los roles de administración y
+operativos, garantizando una interacción intuitiva y eficaz.
+3. Fase de Desarrollo de Servicios: La tercera etapa del proyecto se enfoca en la construcción de
+cada servicio sobre los cimientos previamente establecidos. Aquí se implementarán y
+perfeccionarán las funcionalidades específicas del sistema, integrando las características
+esenciales para el funcionamiento completo y optimizado del proyecto.
+Estas fases están diseñadas para facilitar una progresión ordenada y sistemática del proyecto,
+garantizando que cada aspecto se desarrolle con precisión y se integre de manera efectiva en el
+conjunto general del sistema.
+Total Estimado: 845$ 800$
+Tiempo de desarrollo: 28 - 33 dias
+Pago Inicial: 260$
+NOTA:
+Por favor, tenga en cuenta que estos son costos estimados y pueden variar según los detalles adicionales
+y
+los requisitos específicos que surjan durante el desarrollo. Si necesita alguna aclaración adicional o
+desea proceder con la cotización, no dude en ponerse en contacto.
